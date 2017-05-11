@@ -56,6 +56,9 @@ Open terminator and right click in the window -> Preferences -> Profiles
 deactivate Show titlebar
 Background -> transparent -> 80%
 
+We can create a ssh key
+
+	ssh-keygen -t rsa
 
 
 
